@@ -1,0 +1,16 @@
+{
+    "color": {
+      "gray": {
+        "100": { "value": "#F6F6F6" },
+        "500": { "value": "#939598" },
+        "900": { "value": "#231f20" }
+      },
+      "blue": {
+        "base": { "value": "#00D1FF" }
+      },
+      "text": {
+        "base": { "value": "{color.gray.900.value}" },
+        "decoration": { "value": "{color.blue.base.value}" }
+      }
+    }
+  }
