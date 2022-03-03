@@ -1,0 +1,308 @@
+{
+  "color": {
+    "gray-100": {
+      "value": "rgb(26, 26, 26)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7974d0f926ab84e8d42b",
+          "type": "Color"
+        }
+      }
+    },
+    "gray-80": {
+      "value": "rgb(101, 101, 101)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7974b278c0b397870533",
+          "type": "Color"
+        }
+      }
+    },
+    "gray-60": {
+      "value": "rgb(161, 161, 161)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797505b4f4adf9c13bdd",
+          "type": "Color"
+        }
+      }
+    },
+    "gray-40": {
+      "value": "rgb(199, 199, 199)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c79757e433eb962ea122a",
+          "type": "Color"
+        }
+      }
+    },
+    "gray-05": {
+      "value": "rgb(228, 228, 228)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7976512f5db61be977aa",
+          "type": "Color"
+        }
+      }
+    },
+    "gray-0": {
+      "value": "rgb(241, 241, 241)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7976beb809b60568cde7",
+          "type": "Color"
+        }
+      }
+    },
+    "white": {
+      "value": "rgb(255, 255, 255)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7977301141b59dc27368",
+          "type": "Color"
+        }
+      }
+    },
+    "primary-100": {
+      "value": "rgb(38, 72, 164)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7977b33c3dac44c81301",
+          "type": "Color"
+        }
+      }
+    },
+    "success-100": {
+      "value": "rgb(8, 99, 67)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797806b112b6ced59886",
+          "type": "Color"
+        }
+      }
+    },
+    "alert-100": {
+      "value": "rgb(159, 27, 31)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c79789b8303a96f55859d",
+          "type": "Color"
+        }
+      }
+    },
+    "white-72": {
+      "value": "rgba(255, 255, 255, 0.72)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c7979a84274b20df97cec",
+          "type": "Color"
+        }
+      }
+    },
+    "white-40": {
+      "value": "rgba(255, 255, 255, 0.4)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c79792b999eb7fcd2af93",
+          "type": "Color"
+        }
+      }
+    },
+    "black": {
+      "value": "rgb(0, 0, 0)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797a970e5bae3581d0d3",
+          "type": "Color"
+        }
+      }
+    },
+    "alert-50": {
+      "value": "rgb(222, 28, 34)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797ab70f46b4ec8e9f15",
+          "type": "Color"
+        }
+      }
+    },
+    "primary-50": {
+      "value": "rgb(44, 93, 229)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797b02b591b7470d14e8",
+          "type": "Color"
+        }
+      }
+    },
+    "success-50": {
+      "value": "rgb(0, 133, 86)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797ba4b308ad9ad8c9f3",
+          "type": "Color"
+        }
+      }
+    },
+    "01-fill-03-support-03-success-05": {
+      "value": "rgb(214, 243, 226)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797c733583b4d6ee5846",
+          "type": "Color"
+        }
+      }
+    },
+    "01-fill-03-support-09-alert-05": {
+      "value": "rgb(249, 211, 212)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797c779887b527cbec52",
+          "type": "Color"
+        }
+      }
+    },
+    "01-fill-02-primary-06-primary-0": {
+      "value": "rgb(238, 243, 255)",
+      "metadata": {
+        "source": {
+          "styleguide": {
+            "id": "620c78da7dc138b5ccbfea79",
+            "name": "Design & Dev Library",
+            "platform": "base"
+          }
+        },
+        "resource": {
+          "id": "620c797d3f9bfcb144184ddd",
+          "type": "Color"
+        }
+      }
+    }
+  }
+}
